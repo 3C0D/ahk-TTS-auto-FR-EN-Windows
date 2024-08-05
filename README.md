@@ -1,3 +1,6 @@
+step 1: installer/install AutoHotkey (facile/easy) [lien/link](https://www.autohotkey.com/download/)
+
+
 Activable partout dans Windows avec le raccourci Win+Y, pour lancer/stopper la synthèse vocale du texte sélectionné. 
 La vitesse est bonne mais peut être réglée dans le script. 
 Ajoutez le script au dossier de démarrage rapide de Windows. (win+r → shell:startup)
