@@ -1,3 +1,5 @@
+# TTS sur Sélection ou Presse-papier via Raccourci Partout dans Windows / Text-to-Speech on Selection or Clipboard via Shortcut Anywhere in Windows
+
 ### Instructions en Français
 
 1. **Installer AutoHotkey (facile)**  
@@ -21,6 +23,3 @@
 3. **Using the Win+Y shortcut**  
    - Start/stop the text-to-speech of the selected text or clipboard content (if no text is selected).
    - The reading speed is brisk but can be adjusted in the script.
-
-Citations:
-[1] https://www.autohotkey.com/download/
