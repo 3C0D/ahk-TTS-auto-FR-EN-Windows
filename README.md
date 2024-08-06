@@ -1,10 +1,26 @@
-step 1: installer/install AutoHotkey (facile/easy) [lien/link](https://www.autohotkey.com/download/)
+### Instructions en Français
 
+1. **Installer AutoHotkey (facile)**  
+   [Lien de téléchargement](https://www.autohotkey.com/download/)
 
-Activable partout dans Windows avec le raccourci Win+Y, pour lancer/stopper la synthèse vocale du texte sélectionné. 
-La vitesse est bonne mais peut être réglée dans le script. 
-Ajoutez le script au dossier de démarrage rapide de Windows. (win+r → shell:startup)
+2. **Ajouter le script au dossier de démarrage rapide de Windows**  
+   (Appuyez sur Win+R → entrez `shell:startup`)
 
-Activable anywhere in Windows with the Win+Y shortcut, to start/stop text-to-speech on the selected text. 
-The speed is good but can be adjusted in the script.
-Add the script to the Windows Quick Start folder. (win+r → shell:startup)
+3. **Utilisation du raccourci Win+Y**  
+   - Lancer/stopper la synthèse vocale du texte sélectionné ou du presse-papiers (si aucun texte n'est sélectionné).
+   - La vitesse de lecture est soutenue mais peut être réglée dans le script.
+
+### Instructions in English
+
+1. **Install AutoHotkey (easy)**  
+   [Download link](https://www.autohotkey.com/download/)
+
+2. **Add the script to the Windows startup folder**  
+   (Press Win+R → enter `shell:startup`)
+
+3. **Using the Win+Y shortcut**  
+   - Start/stop the text-to-speech of the selected text or clipboard content (if no text is selected).
+   - The reading speed is brisk but can be adjusted in the script.
+
+Citations:
+[1] https://www.autohotkey.com/download/
